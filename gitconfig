@@ -1,0 +1,10 @@
+[user]
+	email = ts.borisova3@gmail.com
+	name = Tsvetelina Borisova
+[core]
+	editor = vim
+	excludesfile = /home/tsvetelina/.gitignore
+[push]
+	default = matching
+[color]
+	ui = true
