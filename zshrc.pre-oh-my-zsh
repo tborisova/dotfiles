@@ -1,0 +1,4 @@
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export GOPATH=/home/tsvetelina/go
+export PATH=/usr/local/bin:/usr/local/sbin:~/bin:/home/tsvetelina/.rvm/gems/ruby-2.1.2/bin:/home/tsvetelina/.rvm/gems/ruby-2.1.2@global/bin:/home/tsvetelina/.rvm/rubies/ruby-2.1.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/tsvetelina/.rvm/bin:/home/tsvetelina/.rvm/bin:/home/tsvetelina/go/bin:/home/tsvetelina/.rvm/bin:/home/tsvetelina/go/bin:/home/tsvetelina/go/bin:/usr/local/go/bin
